@@ -13,7 +13,7 @@ import csv
 # OS module
 import os
 # add the credential file to environment variables
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"]="<Enter SERVICE ACCOUNT JSON path here>"
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"]="<5898ccb3fbf2bf0f207f1fac10f3202433359ed2>"
 
 # Flask app initialization
 app = Flask(__name__)
